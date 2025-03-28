@@ -1,2 +1,2 @@
 # QAQC
-Delphi application to find/correct errors in SWRC rainfall/runoff data
+Delphi application to find/correct errors in SWRC precipitation/runoff data
